@@ -13,4 +13,5 @@
 
 ### Credits
 
- - Part of the images are taken from [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal)
+ - Part of the images are taken from [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal).
+ - The background is just #000000.
