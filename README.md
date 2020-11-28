@@ -2,16 +2,16 @@
 
 [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI-based systems. This is a simple theme for it.
 
-![Screenshot](https://i.imgur.com/7NZgxoE.png)
+![Screenshot](https://i.imgur.com/RFN5k8A.png)
 
 ### Usage
 
  1. Make sure you have installed rEFInd. 
- 2. Go to rEFInd's folder in ESP, which is often `/boot/efi/EFI/refind` or similar.
+ 2. Go to rEFInd's folder in your [EFI System Partition](https://en.wikipedia.org/wiki/EFI_system_partition).
  3. Create a folder called `themes` and clone this repository inside that folder.
  4. To enable this theme add `include themes/evil/theme.conf` at the end of `refind.conf`.
+ 5. This theme works best at 1920x1080. You may need to edit it if you use a different resolution.
 
-### Credits
+### Attribution
 
- - Part of the images are taken from [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal).
- - The background is just #000000.
+ - Some icons are taken from [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal).
